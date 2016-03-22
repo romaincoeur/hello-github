@@ -6,3 +6,8 @@ Un workflow Git expliqué par un ancien de la Wild Code School (c'est celui qui 
 Un git log coloré et intuitif :
 [https://coderwall.com/p/euwpig/a-better-git-log](https://coderwall.com/p/euwpig/a-better-git-log)
 
+### Création d'un nouveau commit
+
+    git add README.md
+    git commit -m "I did it !!"
+
